@@ -1,0 +1,3 @@
+Write a function that accepts two arrays of numbers
+ and check if the value of all numbers in array 
+ two is as a result of square of each numbers in array one 
